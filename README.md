@@ -46,4 +46,4 @@ El modelo identifica tendencias de consumo y ayuda a prever la demanda de produc
 
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/tu-usuario/tu-repo.git
+   git clone https://github.com/Claudgil/AWS_Proyecto.git
